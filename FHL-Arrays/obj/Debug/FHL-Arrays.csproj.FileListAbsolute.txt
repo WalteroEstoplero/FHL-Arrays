@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\bin\Debug\FHL-Arrays.exe.config
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\bin\Debug\FHL-Arrays.exe
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\bin\Debug\FHL-Arrays.pdb
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\obj\Debug\FHL-Arrays.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\obj\Debug\FHL-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\obj\Debug\FHL-Arrays.exe
+C:\Users\walte\source\repos\FHL-Arrays\FHL-Arrays\obj\Debug\FHL-Arrays.pdb
