@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;           // für ArrayList
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -46,6 +47,8 @@ namespace FHL_Arrays
             foreach (int i in intArray) {
                 Console.WriteLine(i);
             }
+
+            ArrayList arrayList = new ArrayList();
 
 
             Console.ReadKey();
